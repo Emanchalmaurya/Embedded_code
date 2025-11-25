@@ -1,0 +1,3 @@
+../Core/Src/gps.c:7:6:gps_data	3
+../Core/Src/gps.c:28:6:lat_long	19
+../Core/Src/gps.c:104:6:TX_data	1
